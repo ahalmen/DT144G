@@ -1,2 +1,2 @@
-# DT144G
-Datastrukturer och algoritmer, VT 26.
+# Datastrukturer och algortimer, VT 26.
+Innehåller mina lösningar till laborationerna.
